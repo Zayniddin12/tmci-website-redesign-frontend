@@ -1,0 +1,51 @@
+stages:
+  - build_staging
+  - deploy_staging
+
+build_image:
+  stage: build_staging
+  image: registry.uicgroup.tech/devops/docker:dind
+  before_script:
+    - docker login $CI_REGISTRY --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD
+  script:
+    - if [[ "$CI_COMMIT_REF_NAME" == "master" ]]; then 
+        KEYS=$PROD_KEYS; 
+        ENV_TAG=prod; 
+      else 
+        KEYS=$DEV_KEYS; 
+        ENV_TAG=dev; 
+      fi
+    - make vars-input KEYS=$KEYS
+    - make build-image TAG=$CI_PIPELINE_IID SERVICE_NAME=$CI_PROJECT_NAME PROJECT_NAME=$CI_PROJECT_NAMESPACE REGISTRY=$CI_REGISTRY ENV_TAG=$ENV_TAG
+    - make push-image TAG=$CI_PIPELINE_IID SERVICE_NAME=$CI_PROJECT_NAME PROJECT_NAME=$CI_PROJECT_NAMESPACE REGISTRY=$CI_REGISTRY ENV_TAG=$ENV_TAG
+  only:
+    - dev
+    - master
+
+deploy_image:
+  stage: deploy_staging
+  image: registry.uicgroup.tech/devops/docker:dind
+  before_script:
+    - docker login $CI_REGISTRY --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD
+  script:
+    - docker rm -f $CI_PROJECT_NAME
+    - docker pull ${REGISTRY}:$CI_PIPELINE_IID
+    - docker run --name $CI_PROJECT_NAME -d -p 3018:3000 --restart always ${REGISTRY}:$CI_PIPELINE_IID
+  only:
+    - dev
+  tags:
+    - 10.0.0.28
+
+deploy_image_prod:
+  stage: deploy_staging
+  image: registry.uicgroup.tech/devops/docker:dind
+  before_script:
+    - docker login $CI_REGISTRY --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD
+  script:
+    - docker rm -f $CI_PROJECT_NAME
+    - docker pull ${REGISTRY}:$CI_PIPELINE_IID
+    - docker run --name $CI_PROJECT_NAME -d -p 3018:3000 --restart always ${REGISTRY}:$CI_PIPELINE_IID
+  only:
+    - master
+  tags:
+    - tmci-prod

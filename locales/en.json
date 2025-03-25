@@ -1,0 +1,527 @@
+{
+  "hello": "Hello",
+  "more": "More",
+  "period_education": "Period of education",
+  "lang": "Language",
+  "edu_type": "Education type",
+  "admission_date": "Date of admission",
+  "are_study": "Are of study",
+  "price": "Price",
+  "download": "Download",
+  "download_certificate": "Download certificate",
+  "you_have_succesfully_passed_the_exam": "You have succesfully passed the exam",
+  "you_have_succesfully_passed_the_exam_description": "Congratulations, you have passed the test, click the button below to download the certificate",
+  "your_have_failed_the_exam": "Unfortunately, you did not pass the exam.",
+  "you_have_failed_the_exam_description": "Unfortunately, you did not pass the exam. Click the button below to download the certificate.",
+  "download_mobile": "Download our mobile app",
+  "download_mobile_text": "Modern design and intuitive interface make the learning process even more enjoyable. Download the app now and choose a fast and convenient way to gain knowledge!",
+  "submit": "Submit",
+  "passport_series_notfound": "Passport series not found",
+  "adminstrator": "Administrator",
+  "tmci_title": "TMC Develops the\nLeaders of Tomorrow",
+  "tmci_text": "TMC offer a wide range of programming, economics, banking, pharaceuticals,and many more",
+  "apply": "Apply",
+  "submit_doc": "Submission of documents",
+  "reading": "Reading",
+  "apply_is_closed": "Application submission is currently closed",
+  "writing": "Writing",
+  "speaking": "Speaking",
+  "total": "Total",
+  "form": {
+    "phone_number": "Phone number",
+    "student_id": "Student ID",
+    "enter_student_id": "Enter your student ID card serial number",
+    "first_name": "First name",
+    "full_name": "Full name",
+    "enter_full_name": "Enter your full name",
+    "enter_first_name": "Enter your first name",
+    "last_name": "Last name",
+    "enter_last_name": "Enter your last name",
+    "email": "E-mail",
+    "enter_email": "Enter your E-mail",
+    "mail_example": "example{'@'}tmci.uz",
+    "date_placeholder": "dd.mm.yyyy",
+    "date_of_birth": "Date of birth",
+    "position": "Desired position",
+    "select_position": "Select desired position",
+    "select_file": "Choose file",
+    "your_cv": "Your CV",
+    "group_n": "Group number",
+    "enter_group_n": "Enter group number"
+  },
+  "drag_drop": "Drag and drop files here or",
+  "options_not_found": "Options not found",
+  "menu": {
+    "about_tmc": "About TMC",
+    "programs": "Programs",
+    "admissions": "Admissions",
+    "life_at_tmc": "Life at TMC",
+    "contacts": "Contacts",
+    "feedback": "Feedback"
+  },
+  "submenu": {
+    "about": {
+      "about_us": "About TMC",
+      "office_of_the_rector": "Office of the Rector",
+      "management_and_staff": "Management and Staff",
+      "mission_and_value": "Mission and Values",
+      "campus_and_facilities": "Campus and facilities",
+      "license_and_legal": "License and legal",
+      "anti_corruption": "Anti-corruption",
+      "careers": "Careers",
+      "contacts": "Contacts"
+    },
+    "programs": {
+      "business_management": "Business & Management",
+      "international_accounting": "International Accounting",
+      "international_business": "International Business",
+      "comp_science": "Computer Science",
+      "international_trade": "International Logistics & Trade Finance",
+      "international_tourism": "Tourism and Hospitality Management",
+      "economics": "Economics",
+      "banking": "Banking and audit",
+      "fiance": "Finance and financial technologies",
+      "accounting": "Accounting and audit ",
+      "logistics": "Logistics",
+      "transport_logistics": "Transport Logistics",
+      "masters_economics": "Masters in Economics",
+      "philology": "Philology",
+      "psychology": "Psychology",
+      "pedagogics": "Pedagogics",
+      "primary_education": "Primary Education",
+      "pre_school_education": "Preschool education",
+      "information_technology": "Information systems and technologies"
+    },
+    "admissions": {
+      "apply": "Apply",
+      "admission_this_year": "Admission {year}",
+      "financial_aid": "Financial aid",
+      "name": "Admission",
+      "content": "We are open to Admission 2024. Leave a request, we are waiting for you in new discoveries",
+      "exam_results": "Exam results",
+      "exam_results_desc": "To check your exam answers, enter your passport series and number and click the show results button.",
+      "passport_series_number": "Passport series and number",
+      "show_results": "Show results",
+      "document_and_fees": "Documents and fees"
+    },
+    "life_at_tmc": {
+      "news": "News",
+      "events": "Events",
+      "student_stories": "Student Stories",
+      "sports_at_tmc": "Sports at TMC",
+      "career_center": "Career Center"
+    }
+  },
+  "foundation_program": "Foundation Year – First Year",
+  "international_program_bachelor": "International Programs BSc",
+  "international_program_master": "Master of Business Administration",
+  "school_of_economics_and_business": "School of Economics",
+  "school_of_pedagogics": "School of Pedagogics",
+  "went_wrong": "Oh no, something went wrong!",
+  "provide_service": "We provide a professional service for private and commercial customers.",
+  "back_to_home": "Back to home",
+  "join_us": "Join the TMC Institute team in Tashkent",
+  "join_us_content": "We are looking for creative people to help us develop a unique and prestigious institution in Uzbekistan",
+  "school_of_it": "School of IT",
+  "footer_menu": {
+  },
+  "terms_and_conditions": "Terms and Conditions",
+  "undergraduate_programs": "TMC Undergraduate Programs",
+  "international_programs": "\"International programs are organized in collaboration with educational institutions in the United Kingdom and Singapore, and instruction is conducted in English.\"",
+  "world": "International",
+  "local": "Local",
+  "economy": "Economy",
+  "audit": "Audit",
+  "finance": "Finance",
+  "latest_news": "Latest news",
+  "see_all": "See all",
+  "see_more": "See more",
+  "about_us": "About us",
+  "privacy_policy": "Privacy Policy",
+  "licence": "License and legal",
+  "developed_by": "Developed by",
+  "office_of_rector": "Office of the rector",
+  "biography": "Biography",
+  "main": "Main",
+  "management_and_staff": "Management and Staff",
+  "mission_and_values": "Mission and Values",
+  "campus_and_facilities": "Campus and Facilities",
+  "gallery": "Gallery",
+  "tmc_leaders_text": "At TMC we shape the leaders of tomorrow. Committed to providing quality education, we offer future-ready and industry relevant courses that empower our students to excel in their chosen fields.",
+  "anti_corruption": "Anti-corruption",
+  "anti_corruption_title": "Anti-Corruption Departament",
+  "anti_corruption_text": "Vice-rector for scientific affairs and innovations of TMC Institute",
+  "department": "Department",
+  "experience": "Work experience",
+  "have_questions": "Do you have questions?",
+  "any_questions": "If you have any questions, you can easily write them down or contact us, we will answer you soon. ",
+  "phone_placeholder": "00 000-00-00",
+  "question": "Question",
+  "admission": {
+    "name": "Admission",
+    "cards": {
+      "program": {
+        "title": "Application for programs",
+        "description": "We look for driven and unique individuals who can add value to our community at TMC!"
+      },
+      "scholarship": {
+        "title": "Application for scholarship",
+        "description": "We look for driven and unique individuals who can add value to our community at TMC!"
+      }
+    },
+    "during": "During Application",
+    "before": "Before Application",
+    "after": "After Application",
+    "steps": {
+      "phone_verification": "Phone verification",
+      "personal_information": "Personal information",
+      "application_type": "Application type",
+      "direction": "Direction",
+      "exam": "Exam",
+      "education_background": "Education background",
+      "english_proficiency": "English proficiency"
+    },
+    "application_type": {
+      "local": "Application for local program",
+      "international": "Application for international program"
+    }
+  },
+  "write_your_question": "Write your question...",
+  "share": "Share",
+  "print_out": "Print out",
+  "events": "Events",
+  "copied": "Copied",
+  "news": "News",
+  "application_for_programs": "Application for programs",
+  "apply_form": {
+    "phone_verification": {
+      "phone_number": "Phone number",
+      "region": "Country",
+      "region_placeholder": "Select country",
+      "status": "Status",
+      "select_status": "Select status"
+    },
+    "personal_information": {
+      "first_name": "First name",
+      "enter_first_name": "Enter your first name",
+      "last_name": "Last name",
+      "enter_last_name": "Enter your last name",
+      "father_name": "Father's name",
+      "enter_father_name": "Enter your father's name",
+      "gender": "Gender",
+      "pinfl": "PINFL",
+      "avatar": "Profile image",
+      "select_gender": "Select your gender",
+      "citizenship": "Citizenship",
+      "select_citizenship": "Select your citizenship",
+      "email": "E-mail",
+      "enter_email": "Enter your e-mail",
+      "date_of_birth": "Date of birth",
+      "place_of_birth": "dd.mm.yyyy",
+      "passport_serial_number": "Passport/ID card serial number",
+      "enter_passport_serial_number": "Enter your passport/ID card serial number"
+    },
+    "application": {
+      "type": "Application type",
+      "select_type": "Select application type"
+    },
+    "education_background": {
+      "transcript": "Transcript",
+      "application": "Application",
+      "highest_qualification": "Highest qualification",
+      "select_qualification": "Select qualification",
+      "name_school": "Name of School / Academic lyceum / Professional college / Institute / University",
+      "region": "Country",
+      "select_region": "Select country",
+      "district": "Region",
+      "select_district": "Select region",
+      "start_date": "Start date",
+      "end_date": "End date",
+      "diploma": "Diploma"
+    },
+    "direction": {
+      "area_of_study": "Form of education",
+      "select_area_of_study": "Select area of study",
+      "faculties": "Program faculty",
+      "select_faculties": "Select program faculty",
+      "programs": "Programs",
+      "select_programs": "Select programs"
+    },
+    "english_proficiency": {
+      "entrance_via": "Admission form",
+      "ielts_score": "IELTS score",
+      "dtm_score": "DTM score",
+      "transfer_studies": "Transfer study",
+      "enter_your_score": "Enter your score",
+      "dtm_certificate": "DTM certificate",
+      "certificate": "Certificate",
+      "ielts": "IELTS",
+      "dtm_result": "BMBA(DTM) result",
+      "entrance_exam": "Entrance exam",
+      "entrance_exam_condition_one": "Registration: Candidates must complete the registration process for the test.",
+      "entrance_exam_condition_two": "Payment of Registration Fee: The registration fee can be paid through various methods, including Payme, Click, and UZUM applications, or at the nearest bank.",
+      "entrance_exam_title": "To be eligible to participate in the TMC Tashkent Entrance Test, candidates are required to complete the following steps:",
+      "entrance_exam_registration_time": "Kindly note that fee payments will not be accepted beyond the specified deadline.",
+      "select_ielts_score": "Select IELTS score",
+      "select_entrance_via": "Select entrance via"
+    }
+  },
+  "career_center": "Career Center",
+  "department_contacts": "Department contacts",
+  "referral_rewards": "Friend referral rewards",
+  "referral_form": "Referral form",
+  "enter_passport": "Enter your passport/ID card number",
+  "field_of_study": "Field of study",
+  "type_of_study": "Type of study",
+  "contract_number": "Contract number",
+  "enter_contract_number": "Enter your contract number",
+  "select_faculty": "Select faculty",
+  "friend": {
+    "name": "Friend’s name",
+    "enter_name": "Enter your friend’s name",
+    "email": "Friend’s E-mail",
+    "enter_email": "Enter your friend’s E-mail",
+    "passport": "Friend’s passport/ID card serial number",
+    "enter_passport": "Enter your friend’s passport/ID card serial number",
+    "phone_number": "Friend’s phone number",
+    "group_n": "Friend’s group number",
+    "enter_group_n": "Enter your friend’s group number",
+    "date_of_application": "Date of application"
+  },
+  "location": "Location",
+  "event_date": "Event date",
+  "event_time": "Event time",
+  "website": "Website",
+  "date_placeholder": "dd.mm.yyyy",
+  "drop_file_here": "Drag and drop files here or",
+  "enter_your_answer": "Enter your answer",
+  "back": "Back",
+  "continue": "Continue",
+  "drag_file_here_or_select_file": "Drag and drop files here or select file",
+  "choose_file": "Choose file",
+  "clear": "Clear",
+  "remove_file": "Remove file",
+  "structure": "Organizational structure",
+  "thanks_interets": "Thank you for your interest!",
+  "thanks_interets_text": "Your application form has been succesfully filled out and submitted. Admission committee will soon allocoate neccessary efforts in order review your application. Once the team is finished with considering your candidate and decides that you all the criteria, we will contact you in no time. Stay tuned. Good luck!",
+  "go_home_page": "Go to home page",
+  "successfully_submitted": "Successfully submitted",
+  "careers_not_found": "Careers not found",
+  "license_not_found": "License not found",
+  "programs_not_found": "Programs not found",
+  "months": {
+    "Jan": "Jan",
+    "Feb": "Feb",
+    "Mar": "Mar",
+    "Apr": "Apr",
+    "May": "May",
+    "Jun": "Jun",
+    "Jul": "Jul",
+    "Aug": "Aug",
+    "Sep": "Sep",
+    "Oct": "Oct",
+    "Nov": "Nov",
+    "Dec": "Dec"
+  },
+  "about_faculty": "About the faculty",
+  "requirements": "Requirements",
+  "who_can_apply": "Who is this for",
+  "managements_not_found": "Managements not found",
+  "all": "All",
+  "career_opportunities": "Career opportunities",
+  "verification": "Verification",
+  "resident": "Resident",
+  "no_resident": "Non-resident",
+  "verify_otp_desc": "We have sent a verification code to your phone number",
+  "send_again_sms_code": "Send again SMS code",
+  "verify": "Verify",
+  "toast": {
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning"
+  },
+  "search": "Search",
+  "news_not_found": "News not found",
+  "events_not_found": "Events not found",
+  "the_deans_scholarship": "Evaluation and Decision",
+  "eligibility": "Eligibility through the TMC Inner Exam",
+  "assessment": "Assessment of TMC Inner Exam",
+  "stories_not_found": "Student stories not found",
+  "entrance_exam_registration": "{time} Entrance exam registration",
+  "entrance_exam_registration_time": "Registration clothing time is {time} local time.",
+  "application_for_scholarships": "Application for scholarships",
+  "tmc_milestones": "TMC Milestones",
+  "day_away": "Admission 2024 is {day} days away",
+  "admission_ongoing": "Admission 2024 is ongoing, hurry, there are few places left",
+  "years": "years",
+  "year": "year",
+  "send": "Send",
+  "have": "Have {question}",
+  "questions": "questions?",
+  "male": "Male",
+  "female": "Female",
+  "go_to_link": "Go to the link",
+  "resend_in": "Resend in",
+  "rest_time": "Rest time",
+  "classes_start": "Classes start",
+  "contract_price": "Contract price",
+  "no_anticorruption_data": "No information was found on the fight against corruption",
+  "undergraduate": "Undergraduate - (transfer)",
+  "sirtqi": "Externally",
+  "daytime": "Daytime",
+  "master": "Masters",
+  "foundation": "Foundation - First year of TMC Institute bachelor's degree",
+  "passport": "Passport",
+  "test_mode": "This website is currently operating in test mode. Some features may be unavailable or not function as expected.",
+  "select_the_type_of_registration": "Select the type of registration",
+  "select_registration": "Select registration",
+  "verification_with_phone_number": "Verification with phone number",
+  "verification_without_phone_number": "Verification without phone number",
+  "emergency_contact": "Emergency contact",
+  "phone_number_phone_already_exists": "Phone number already exists",
+  "passport_already_exists": "Passport already exists",
+  "student_life": {
+    "nav": {
+      "student_life": "Student life",
+      "student_orientation": "Student Orientation",
+      "student_facilities": "Student Facilities",
+      "student_clubs": "Student Clubs",
+      "internship": "International Internship",
+      "camps": "Summer and Winter Camps",
+      "work_and_travel": "Work and Travel Programs"
+    },
+    "student_orientation": {
+      "title": "Student Orientation"
+    },
+    "student_facilities": {
+      "title": "Facilities"
+    },
+    "student_clubs": {
+      "title": "Student Clubs"
+    },
+    "clubs": {
+      "related_clubs": "More TMS clubs to get to know"
+    },
+    "internship": {
+      "title": "International Internship",
+      "student_success_stories": "Student success stories",
+      "international_internship_instruction": "International Internship Instruction"
+    },
+    "camps": {
+      "title": "More About Camps",
+      "instruction": "Summer/Winter Camp Instruction"
+    }
+  },
+  "faq": {
+    "title": "F.A.Q.",
+    "subtitle": "Can’t find what you’re looking for? \n If you have questions, find answers in the most frequently asked questions"
+  },
+  "work_and_travel": {
+    "title": "Work and Travel Programs",
+    "info": "At TMC Univercity, we believe that the best way to learn is through experience. That’s why our Work and Travel programs are designed to immerse students in real-world environments that push the boundaries of traditional education. \nThese programs offer you the opportunity to explore different countries while gaining invaluable work experience that enhances both your personal and professional development. The Work and Travel experience is a powerful way to complement your academy. "
+  },
+  "feedback": {
+    "title": "Feedback management",
+    "card": {
+      "title": "Welcome to TMC University",
+      "info": "FMS (Feedback Management System) is the official feedback system of the University TMC, dedicated in accomodating your inquiries, suggestions, concerns, complaints and commendations"
+    },
+    "send": "Send feedback",
+    "personal_details": "Personal details",
+    "alert": {
+      "title": "We value your privacy!",
+      "info": "Unless otherwise needed, your personal information will not be disclosed.\nPlease fill-out your contact details so that the University can contact you. Otherwise, your feedback will be discarded."
+    },
+    "form": {
+      "student_id": {
+        "label": "Student/Employee ID Number (if applicable)",
+        "placeholder": "Enter input"
+      },
+      "name": {
+        "label": "Name (Last Name, First Name & Middle Initial)",
+        "placeholder": "Enter input"
+      },
+      "branch": {
+        "label": "Branch",
+        "placeholder": "Select campus"
+      },
+      "college_program": {
+        "label": "College/Program",
+        "placeholder": "N/A"
+      },
+      "email": {
+        "label": "E-Mail",
+        "placeholder": "Enter your e-mail"
+      },
+      "phone": {
+        "label": "Phone number",
+        "placeholder": "00 000-00-00"
+      },
+      "feedback_details": {
+        "label": "Feedback details"
+      },
+      "feedback_type": {
+        "label": "Feedback type",
+        "placeholder": "Select type"
+      },
+      "question_type": {
+        "label": "I would like to ask about",
+        "placeholder": "Select one"
+      },
+      "details": {
+        "label": "Details",
+        "placeholder": "Write details here"
+      },
+      "submit": {
+        "label": "Send feedback"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Student testimonials",
+    "info": "Real success stories that show how our training leads to results."
+  },
+  "feedback_form_not_valid": "Please, fill the form correctly",
+  "partners": {
+    "title": "Partners",
+    "subtitle": "Our reliable partners"
+  },
+  "faqs": {
+    "title": "F.A.Q",
+    "info": "Can’t find what you’re looking for? If you have questions, find answers in the most frequently asked questions"
+  },
+  "supervisory_board": "Supervisory Board",
+  "partner_universities": {
+    "title": "Strategic Partners",
+    "subtitle": "Learn more about our partner universities."
+  },
+  "green_campus": "Green campus Initiatives",
+  "initiative": "More Green Campus Initiatives",
+  "learn_more": "Learn more",
+  "scholarships_and_grants": "Scholarship & Grants",
+  "admission-assessment": "Submission and Assessment of Documents",
+  "admission-eligibility": "Eligibility",
+  "discover": "Discover",
+  "stats": {
+    "title": "We are at numbers",
+    "info": "Key figures showcasing our academic quality, student diversity, and faculty expertise."
+  },
+  "course_content": "Course Content",
+  "sus_news": "Sustainability News at TMC ",
+  "structures": {
+    "title": "Structure"
+  },
+  "join_club": "Join Our {club}",
+  "club": "Club!",
+  "join_club_subtitle": "If you have any questions, you can easily write them down or contact us, we will answer you soon.",
+  "academic_calendar": "Academic Calendar",
+  "academic_year": "Academic Term/Year",
+  "thanks_for_joining": "Thank you for joining our club!",
+  "thanks_for_joining_subtitle": "Your application form has been succesfully filled out and submitted. Admission committee will soon allocoate neccessary efforts in order review your application. Once the team is finished with considering your candidate and decides that you all the criteria, we will contact you in no time. Stay tuned. Good luck!",
+  "back_to_club": "Back to {club}",
+  "back_to_calendar": "Back to calendar",
+  "audience": "Audience",
+  "school_program": "School/Program",
+  "type": "Type",
+  "select_type_of_study": "Select type of study"
+}

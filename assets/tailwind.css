@@ -1,0 +1,79 @@
+@import '/assets/styles/variables.css';
+@import "/assets/styles/transition.css";
+@import "/assets/icomoon/style.css";
+@import "/assets/fonts/vela-sans/stylesheet.css";
+@import "/assets/fonts/raleway/stylesheet.css";
+@import '/assets/styles/main.css';
+@import "/assets/fonts/georgia/stylesheet.css";
+@import "/assets/fonts/averta/stylesheet.css";
+
+@import "/assets/fonts/averta/stylesheet.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+        scrollbar-width: 0;
+    }
+    /* Hide scrollbar for IE, Edge and Firefox */
+    .no-scrollbar {
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+    }
+}
+
+body, button, input, optgroup, select, textarea {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-variant-numeric: lining-nums proportional-nums !important;
+    font-feature-settings: 'liga' off !important;
+    @apply text-dark bg-gray-100
+}
+
+.transition-300 {
+    transition: all .3s;
+}
+
+.absolute-x {
+    position: absolute;
+    transform: translateX(-50%);
+    left: 50%;
+}
+.absolute-y {
+    position: absolute;
+    transform: translateY(-50%);
+    top: 50%;
+}
+.absolute-center {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+}
+.flex-y-center {
+    display: flex;
+    align-items: center;
+}
+.flex-x-center {
+    display: flex;
+    justify-content: center;
+}
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.flex-center-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,525 @@
+{
+  "hello": "Salom",
+  "more": "Batafsil",
+  "period_education": "O‘qish davri",
+  "lang": "Til",
+  "edu_type": "Ta'lim turi",
+  "admission_date": "Qabul qilish sanasi",
+  "are_study": "taxsil oladi",
+  "price": "O‘qish uchun to‘lov",
+  "download": "Yuklab olish",
+  "download_certificate": "Sertifikatni yuklab olish",
+  "you_have_succesfully_passed_the_exam": "Siz imtihondan muvaffaqiyatli o‘tdingiz",
+  "you_have_succesfully_passed_the_exam_description": "Tabriklaymiz, siz testdan o‘tdingiz, quyidagi tugma orqali sertifikatni yuklab oling",
+  "your_have_failed_the_exam": "Afsuski, siz imtihondan o‘ta olmadingiz.",
+  "you_have_failed_the_exam_description": "Afsuski, siz imtihondan o‘ta olmadingiz. Sertifikatni yuklab olish uchun quyidagi tugmani bosing.",
+  "download_mobile": "Mobil ilovamizni yuklab oling",
+  "download_mobile_text": "Zamonaviy dizayn va intuitiv interfeys sizga o‘qish jarayonini yanada yoqimli qiladi. Ilovani hoziroq yuklab oling hamda bilimga tez va qulay yo‘lni tanlang!",
+  "submit": "Yuborish",
+  "reading": "O‘qish",
+  "apply_is_closed": "Hozirda ariza topshirish yopilgan",
+  "writing": "Yozish",
+  "speaking": "So‘zlashish",
+  "adminstrator": "Administrator",
+  "total": "Jami",
+  "passport_series_notfound": "Pasport seriyasi topilmadi",
+  "tmci_title": "TMCda biz ertangi kunning \nyetakchilarini shakllantiramiz.",
+  "tmci_text": "TMC dasturlash, iqtisodiyot, bank ishi, farmatsevtika va boshqa sohalardagi keng ko‘lamli o‘quv dasturlarini taklif qiladi",
+  "apply": "Ariza topshirish",
+  "submit_doc": "Hujjatlarni topshirish",
+  "form": {
+    "phone_number": "Telefon raqami",
+    "student_id": "Talaba ID",
+    "enter_student_id": "Talabalik guvohnomasining seriya va raqamini kiriting",
+    "first_name": "Ism",
+    "full_name": "F.I.Sh",
+    "enter_full_name": "F.I.Shni to‘liq kiriting",
+    "enter_first_name": "Ismingizni kiriting",
+    "last_name": "Familiya",
+    "enter_last_name": "Familiyangizni kiriting",
+    "email": "Elektron pochta",
+    "enter_email": "Elektron pochtangizni kiriting",
+    "mail_example": "example{'@'}tmci.uz",
+    "date_placeholder": "kk.oo.yyyy",
+    "date_of_birth": "Tug‘ilgan sanasi",
+    "position": "Istalgan lavozim",
+    "select_position": "Istalgan lavozimni tanlang",
+    "select_file": "Faylni tanlang",
+    "your_cv": "Sizning rezyumengiz",
+    "group_n": "Guruh raqami",
+    "enter_group_n": "Guruh raqamini kiriting"
+  },
+  "drag_drop": "Fayllarni bu yerga torting yoki tanlang",
+  "options_not_found": "Tanlovlar topilmadi",
+  "menu": {
+    "about_tmc": "TMC haqida",
+    "programs": "Dasturlar",
+    "admissions": "Qabul",
+    "life_at_tmc": "TMCdagi hayot",
+    "contacts": "Aloqa"
+  },
+  "submenu": {
+    "about": {
+      "about_us": "TMC haqida",
+      "office_of_the_rector": "Rektoriyat",
+      "management_and_staff": "Menejerlar va xodimlar",
+      "mission_and_value": "Missiya va qadriyatlar",
+      "campus_and_facilities": "Kampus va qulayliklar",
+      "license_and_legal": "Litsenziya va huquqiy asos",
+      "anti_corruption": "Korruptsiyaga qarshi kurash",
+      "careers": "Karyera",
+      "contacts": "Aloqa"
+    },
+    "programs": {
+      "business_management": "Biznes va menejment",
+      "international_accounting": "Xalqaro buxgalteriya hisobi",
+      "international_business": "Xalqaro biznes",
+      "comp_science": "Informatika",
+      "international_trade": "Xalqaro logistika",
+      "international_tourism": "Turizm va mehmonxona boshqaruvi",
+      "economics": "Iqtisodiyot",
+      "banking": "Bank ishi va audit",
+      "fiance": "Moliya va moliyaviy texnologiyalar",
+      "accounting": "Buxgalteriya hisobi va audit",
+      "logistics": "Logistika",
+      "transport_logistics": "Transport logistikasi",
+      "masters_economics": "Iqtisodiyot magistrlari",
+      "philology": "Filologiya",
+      "psychology": "Psixologiya",
+      "pedagogics": "Pedagogika",
+      "primary_education": "Boshlang‘ich ta'lim",
+      "pre_school_education": "Maktabgacha ta'lim",
+      "information_technology": "Axborot tizimlari va texnologiyalari"
+    },
+    "admissions": {
+      "apply": "Ariza topshirish",
+      "admission_this_year": "Qabul {year}",
+      "financial_aid": "Moliyaviy yordam",
+      "name": "Qabul",
+      "content": "Biz 2024 yil qabuli ochiqligini e'lon qilamiz. So‘rovnomani to‘ldiring, biz sizni yangi o‘quv yilida kutamiz",
+      "exam_results": "Imtihon natijalari",
+      "exam_results_desc": "Imtihon javoblarini tekshirish uchun pasport seriyasi va raqamini kiriting va natijalarni ko‘rsatish tugmasini bosing",
+      "passport_series_number": "Pasport seriya va raqami",
+      "show_results": "Natijalarni ko‘rsatish"
+    },
+    "life_at_tmc": {
+      "news": "Yangiliklar",
+      "events": "Tadbirlar",
+      "student_stories": "Talabalar hikoyalari",
+      "sports_at_tmc": "TMCda sport",
+      "career_center": "Karyera markazi"
+    }
+  },
+  "foundation_program": "Birinchi yil - Foundation dasturi",
+  "international_program_bachelor": "Xalqaro bakalavr dasturlari",
+  "international_program_master": "Biznes boshqaruvi magistri",
+  "school_of_economics_and_business": "Iqtisodiyot maktabi",
+  "school_of_pedagogics": "Pedagogika maktabi",
+  "went_wrong": "Ups, qandaydir xatolik yuz berdi!",
+  "provide_service": "Biz xususiy va tijorat mijozlari uchun professional xizmatni taqdim etamiz.",
+  "back_to_home": "Asosiyga qaytish",
+  "join_us": "Toshkentdagi TMC instituti jamoasiga qo‘shiling",
+  "join_us_content": "Biz O‘zbekistonda noyob va nufuzli institutni rivojlantirishga ko‘maklashadigan ijodkor yoshlarni qidirmoqdamiz",
+  "school_of_it": "IT maktab",
+  "footer_menu": {},
+  "terms_and_conditions": "Foydalanish shartlari",
+  "undergraduate_programs": "TMC bakalavriat dasturlari",
+  "international_programs": "\"Xalqaro dasturlar Britaniya va Singapur ta'lim dargohlari bilan hamkorlikda tashkil qilinadi va ta'lim ingliz tilida olib boriladi\"",
+  "world": "Xorijiy",
+  "local": "Mahalliy",
+  "economy": "Iqtisodiyot",
+  "audit": "Audit",
+  "finance": "Moliya",
+  "latest_news": "So‘nggi yangiliklar",
+  "see_all": "Barchasi",
+  "see_more": "Batafsil",
+  "about_us": "Biz haqimizda",
+  "privacy_policy": "Maxfiylik siyosati",
+  "licence": "Litsenziya va huquqiy asos",
+  "developed_by": "Ishlab chiquvchi",
+  "office_of_rector": "Rektoriyat",
+  "biography": "Biografiya",
+  "main": "Asosiy",
+  "management_and_staff": "Menejerlar va xodimlar",
+  "mission_and_values": "Missiya va qadriyatlar",
+  "campus_and_facilities": "Kampus va qulayliklar",
+  "gallery": "Galereya",
+  "tmc_leaders_text": "TMCda biz ertangi kunning yetakchilarini shakllantiramiz. ",
+  "anti_corruption": "Korruptsiyaga qarshi kurash",
+  "anti_corruption_title": "Korrupsiyaga qarshi kurashish boshqarmasi",
+  "anti_corruption_text": "TMC instituti ilmiy ishlar va innovatsiyalar bo‘yicha prorektori",
+  "department": "Bo‘lim",
+  "experience": "Tajriba",
+  "have_questions": "Savollaringiz bormi?",
+  "any_questions": "O‘zingizni qiziqtirgan savollar va murojatlaringiz bo‘lsa biz bilan bog‘laning, mas'ul xodimlarimiz tez orada siz bilan aloqaga chiqishadi.",
+  "phone_placeholder": "00 000-00-00",
+  "question": "Savol",
+  "admission": {
+    "name": "Qabul",
+    "cards": {
+      "program": {
+        "title": "Dasturlar uchun ariza",
+        "description": "Biz TMC hamjamiyati rivojlantirishiga hissa qo‘shishga qodir bo‘lgan maqsadlariga intiluvchan qobiliyatli shaxslarni qidirmoqdamiz!"
+      },
+      "scholarship": {
+        "title": "Grant uchun ariza",
+        "description": "Biz TMC hamjamiyati rivojlantirishiga hissa qo‘shishga qodir bo‘lgan maqsadlariga intiluvchan qobiliyatli shaxslarni qidirmoqdamiz!"
+      }
+    },
+    "steps": {
+      "phone_verification": "Telefon raqamini tasdiqlash",
+      "personal_information": "Shaxsiy ma'lumotlar",
+      "application_type": "Ariza turi",
+      "direction": "Yo‘nalish",
+      "exam": "Imtihon",
+      "education_background": "Ta'lim darajasi",
+      "english_proficiency": "Qabul shakli"
+    },
+    "application_type": {
+      "local": "Mahalliy dastur uchun ariza",
+      "international": "Xalqaro dastur uchun ariza"
+    }
+  },
+  "write_your_question": "Savolingizni qoldiring...",
+  "share": "Ulashish",
+  "print_out": "Chop etish",
+  "events": "Tadbirlar",
+  "copied": "Nusxalandi",
+  "news": "Yangiliklar",
+  "application_for_programs": "Dasturlar uchun ariza",
+  "apply_form": {
+    "phone_verification": {
+      "phone_number": "Telefon raqami",
+      "region": "Mamlakat",
+      "region_placeholder": "Mamlakatni tanlang",
+      "status": "Holati",
+      "select_status": "Holatni tanlang"
+    },
+    "personal_information": {
+      "first_name": "Ism",
+      "enter_first_name": "Ismingizni kiriting",
+      "last_name": "Familiya",
+      "enter_last_name": "Familiyangizni kiriting",
+      "father_name": "Sharif",
+      "enter_father_name": "Sharifingizni kiriting",
+      "gender": "Jins",
+      "pinfl": "JSHSHIR",
+      "avatar": "Profil rasmi",
+      "select_gender": "Jinsni tanlang",
+      "citizenship": "Fuqarolik",
+      "select_citizenship": "Fuqarolikni tanlang",
+      "email": "Elektron pochta",
+      "enter_email": "Elektron pochtangizni kiriting",
+      "date_of_birth": "Tug‘ilgan sana",
+      "place_of_birth": "kk.oo.yyyy",
+      "passport_serial_number": "Pasport / ID karta seriya va raqami",
+      "enter_passport_serial_number": "Pasport/ IDkartangizning seriya va raqamini kiriting"
+    },
+    "application": {
+      "type": "Ariza turi",
+      "select_type": "Ariza turini tanlang"
+    },
+    "education_background": {
+      "transcript": "Transkript",
+      "application": "Ariza",
+      "highest_qualification": "Eng yuqori malaka",
+      "select_qualification": "Malakani tanlang",
+      "name_school": "Maktab/Akademik litsey/Kasb-hunar kolleji/Institut/Universitet nomi",
+      "region": "Mamlakat",
+      "select_region": "Mamlakatni tanlang",
+      "district": "Shahar/Viloyat",
+      "select_district": "Shahar/Viloyatni tanlang",
+      "start_date": "Boshlanish sanasi",
+      "end_date": "Tugash sanasi",
+      "diploma": "Diplom"
+    },
+    "direction": {
+      "area_of_study": "Ta'lim shakli",
+
+      "select_area_of_study": "Ta'lim yo‘nalishini tanlang",
+      "faculties": "Fakultet",
+      "select_faculties": "Fakultetni tanlang",
+      "programs": "Dasturlar",
+      "select_programs": "Dasturlarni tanlang"
+    },
+    "english_proficiency": {
+      "transfer_studies": "O‘qishni ko‘chirish",
+      "entrance_via": "Qabul shakli",
+      "ielts_score": "IELTS umumiy balli",
+      "dtm_score": "DTM umumiy balli",
+      "enter_your_score": "Umumiy ballingizni kiriting",
+      "dtm_certificate": "DTM imtihonining javoblar varaqi",
+      "certificate": "Sertifikat",
+      "ielts": "IELTS",
+      "dtm_result": "BMBA(DTM) natijasi ",
+      "entrance_exam": "Kirish imtihoni",
+      "entrance_exam_condition_one": "Ro‘yxatdan o‘tish: Nomzodlar testga kirish uchun ro‘yxatdan o‘tish jarayonini yakunlashlari kerak.",
+      "entrance_exam_condition_two": "Roʻyxatdan oʻtish toʻlovini amalga oshirish: Roʻyxatdan oʻtish toʻlovini turli usullar mavjud, jumladan Payme, Click, UZUM ilovalari orqali yoki eng yaqin bankda toʻlash mumkin.",
+      "entrance_exam_title": "Toshkent shahrida TMC kirish imtihonlarida qatnashish uchun nomzodlar quyidagi bosqichlardan o‘tishlari kerak:",
+      "entrance_exam_registration_time": "To‘lovlar belgilangan muddatdan so‘ng qabul qilinmasligini unutmang.",
+      "select_ielts_score": "IELTS ballini belgilang",
+      "select_entrance_via": "Imtihonga kirish turini tanlang"
+    }
+  },
+  "career_center": "Karyera markazi",
+  "department_contacts": "Fakultet telefon raqami",
+  "referral_rewards": "Do‘stlarni tavsiyalash uchun mukofotlar",
+  "referral_form": "Murojaat shakli",
+  "enter_passport": "Passport/ID karta raqamingizni kiriting",
+  "field_of_study": "Ta'lim yo'nalishi",
+  "type_of_study": "Ta'lim turi",
+  "contract_number": "Shartnoma raqami",
+  "enter_contract_number": "Shartnoma raqamingizni kiriting",
+  "select_faculty": "Fakultetni tanlang",
+  "friend": {
+    "name": "Do‘stingizning ismi",
+    "enter_name": "Do‘stingiz ismini kiriting",
+    "email": "Do‘stingizning elektron pochtasi",
+    "enter_email": "Do‘stingizning elektron pochta manzilini kiriting",
+    "passport": "Do‘stingizning pasporti / ID kartasining seriya va raqami",
+    "enter_passport": "Do‘stingizning pasporti / ID kartasining seriya va raqamini kiriting",
+    "phone_number": "Do‘stingizning telefon raqami",
+    "group_n": "Do‘stingizning guruh raqami",
+    "enter_group_n": "Do‘stingizning guruh raqamini kiriting",
+    "date_of_application": "Ariza berilgan sana"
+  },
+  "location": "Manzil",
+  "event_date": "Tadbir sanasi",
+  "event_time": "Tadbir vaqti",
+  "website": "Veb-sayt",
+  "date_placeholder": "kk.oo.yyyy",
+  "drop_file_here": "Fayllarni shu yerga torting yoki",
+  "enter_your_answer": "Javobingizni kiriting",
+  "back": "Orqaga",
+  "continue": "Davom etish",
+  "drag_file_here_or_select_file": "Fayllarni shu yerga torting yoki faylni tanlang",
+  "choose_file": "Faylni tanlang",
+  "clear": "O‘chirish",
+  "remove_file": "Faylni o‘chirish",
+  "structure": "Tashkiliy tuzilma",
+  "thanks_interets": "Qiziqish bildirganingiz uchun rahmat!",
+  "thanks_interets_text": "Sizning arizangiz muvaffaqiyatli to‘ldirildi va yuborildi. ",
+  "go_home_page": "Asosiyga o‘tish",
+  "successfully_submitted": "Muvaffaqiyatli yuborildi",
+  "careers_not_found": "Karyera topilmadi",
+  "license_not_found": "Litsenziya topilmadi",
+  "programs_not_found": "Dasturlar topilmadi",
+  "months": {
+    "Jan": "Yanvar",
+    "Feb": "Fevral",
+    "Mar": "Mart",
+    "Apr": "Aprel",
+    "May": "May",
+    "Jun": "Iyun",
+    "Jul": "Iyul",
+    "Aug": "Avgust",
+    "Sep": "Sentabr",
+    "Oct": "Oktyabr",
+    "Nov": "Noyabr",
+    "Dec": "Dekabr"
+  },
+  "about_faculty": "Fakultet haqida",
+  "requirements": "Talablar",
+  "who_can_apply": "Kimlar uchun",
+  "managements_not_found": "Menejer topilmadi",
+  "all": "Barchasi",
+  "career_opportunities": "Karyera imkoniyatlari",
+  "verification": "Tasdiqlash",
+  "resident": "Rezident",
+  "no_resident": "Norezident",
+  "verify_otp_desc": "Telefon raqamingizga tasdiqlash kodini yubordik",
+  "send_again": "Qayta yuborish",
+  "verify": "Tasdiqlash",
+  "toast": {
+    "success": "Muvaffaqiyatli",
+    "error": "Xatolik",
+    "warning": "Ogohlantirish"
+  },
+  "search": "Izlash",
+  "news_not_found": "Yangiliklar topilmadi",
+  "events_not_found": "Tadbirlar topilmadi",
+  "the_deans_scholarship": "Baholash va qaror qabul qilish",
+  "eligibility": "Talablarga javob berish",
+  "assessment": "TMC ichki imtihonining baholanishi",
+  "stories_not_found": "Talaba hikoyalari topilmadi",
+  "entrance_exam_registration": "Kirish imtihoniga ro‘yxatdan o‘tish {time}",
+  "entrance_exam_registration_time": "Roʻyxatdan oʻtishning yopilish vaqti, mahalliy vaqt bilan: {time}.",
+  "application_for_scholarships": "Grantlar uchun ariza",
+  "tmc_milestones": "TMC tarixidagi muhim bosqichlar",
+  "day_away": "2024 yil uchun qabul boshlanishiga {day} kun qoldi",
+  "admission_ongoing": "2024 yil uchun qavul davom etmoqda, shoshiling, joylar soni kam",
+  "years": "yil",
+  "year": "yil",
+  "send": "Yuborish",
+  "have": "{question} bormi?",
+  "questions": "Savollar",
+  "male": "Erkak",
+  "female": "Ayol",
+  "go_to_link": "Havola orqali o‘tish",
+  "resend_in": "Qayta yuborish",
+  "rest_time": "Qolgan vaqt",
+  "send_again_sms_code": "SMS kodini qayta yuborish",
+  "classes_start": "Darslar boshlanishi",
+  "contract_price": "Shartnoma narxi",
+  "no_anticorruption_data": "Korruptsiyaga qarshi kurash bo‘yicha ma'lumotlar topilmadi",
+  "undergraduate": "Bakalavr",
+  "sirtqi": "Sirtqi",
+  "daytime": "Kunduzgi",
+  "master": "Magistratura",
+  "foundation": "Foundation - TMC instituti bakalavriatining birinchi yili",
+  "passport": "Pasport",
+  "test_mode": "Ushbu veb-sayt hozirda test rejimida ishlamoqda. Ba'zi funksiyalar mavjud bo‘lmasligi yoki kutilganidek ishlamasligi mumkin.",
+  "select_the_type_of_registration": "Ro‘yxatdan o‘tish turini tanlang",
+  "select_registration": "ro‘yxatdan o‘tishni tanlang",
+  "verification_with_phone_number": "Telefon raqam orqali tasdiqlash",
+  "verification_without_phone_number": "Tasdiqlashsiz",
+  "emergency_contact": "Qo‘shimcha raqam",
+  "phone_number_phone_already_exists": "Telefon raqam allaqachon mavjud",
+  "passport_already_exists": "Pasport allaqachon mavjud",
+  "join_club": "Bizning {club}ga qo'shiling!",
+  "club": "Klub",
+  "join_club_subtitle": "Agar sizda biron bir savol bo'lsa, ularni osongina yozib olishingiz yoki biz bilan bog'lanishingiz mumkin, biz sizga tez orada javob beramiz.",
+  "academic_calendar": "Akademik kalendar",
+  "academic_year": "Akademik davr/yil",
+  "thanks_for_joining": "Klubimizga qo'shilganingiz uchun tashakkur!",
+  "thanks_for_joining_subtitle": "Sizning arizangiz muvaffaqiyatli to'ldirildi va topshirildi. Qabul komissiyasi tez orada arizangizni ko'rib chiqish uchun zarur bo'lgan sa'y-harakatlarni ajratadi. Jamoa sizning nomzodingizni ko'rib chiqishni tugatgandan so'ng va siz barcha mezonlar to'g'risida qaror qabul qilgandan so'ng, biz qisqa vaqt ichida siz bilan bog'lanamiz. Yangiliklarni kuzatib boring, xabardor bo'lib boring; Biz bilan qoling. Omad tilaymiz!",
+  "back_to_club": "{club}ga qaytish",
+  "back_to_calendar": "Kalendarga qaytish",
+  "audience": "Tomoshabinlar",
+  "school_program": "Maktab/Dastur",
+  "type": "Tur",
+
+  "student_life": {
+    "nav": {
+      "student_life": "Talaba hayoti",
+      "student_orientation": "Talaba yo'nalishi",
+      "student_facilities": "Talabalar uchun imkoniyatlar",
+      "student_clubs": "Talabalar klublari",
+      "internship": "Xalqaro amaliyot",
+      "camps": "Yozgi va qishki lagerlar",
+      "work_and_travel": "Ish va sayohat dasturlari"
+    },
+    "student_orientation": {
+      "title": "Talaba yo'nalishi"
+    },
+    "student_facilities": {
+      "title": "Imkoniyatlar"
+    },
+    "student_clubs": {
+      "title": "Talabalar klublari"
+    },
+    "clubs": {
+      "related_clubs": "Boshqa TMS klublari haqida bilib oling "
+    },
+    "internship": {
+      "title": "Xalqaro amaliyot",
+      "student_success_stories": "Talabalarning muvaffaqiyat yo'llari",
+      "international_internship_instruction": "Xalqaro amaliyot yo'riqnomasi"
+    },
+    "camps": {
+      "title": "Lagerlar haqida batafsil",
+      "instruction": "Yozgi/qishki lagerlar yo'riqnomasi"
+    }
+  },
+  "faq": {
+    "title": "Tez-tez so'raladigan savollar",
+    "subtitle": "Izlayotgan narsangizni topa olmadingizmi? Savollaringiz bo'lsa, eng ko'p beriladigan savollardan javoblarni toping."
+  },
+  "work_and_travel": {
+    "title": "Ish va sayohat dasturlari",
+    "info": "TMC Universitetida biz tajriba orqali o'rganish eng yaxshi yo'l deb hisoblaymiz. Shuning uchun bizning Ish va Sayohat dasturlarimiz talabalarga an'anaviy ta'lim chegaralarini kengaytiradigan real dunyo muhitida ishlash imkonini beradi. Bu dasturlar sizga turli mamlakatlarni o'rganish va qimmatli ish tajribasini orttirish imkonini beradi, bu esa shaxsiy va professional rivojlanishingizga hissa qo'shadi. Ish va sayohat tajribasi akademiyangizni to'ldirishning kuchli usulidir."
+  },
+  "feedback": {
+    "title": "Fikr-mulohaza boshqaruvi",
+    "card": {
+      "title": "TMC Universitetiga xush kelibsiz",
+      "info": "FMS (Fikr-mulohaza boshqaruvi tizimi) TMC universitetining rasmiy fikr-mulohaza tizimi bo'lib, sizning so'rovlarga, takliflarga, e'tirozlarga, shikoyatlarga va tavsiyalarga javob beradi."
+    },
+    "send": "Fikr-mulohaza yuborish",
+    "personal_details": "Shaxsiy ma'lumotlar",
+    "alert": {
+      "title": "Maxfiyligingizni qadrlaymiz!",
+      "info": "Zarur bo'lmasa, shaxsiy ma'lumotlaringiz oshkor qilinmaydi. Iltimos, bog'lanish ma'lumotlaringizni to'ldiring, shunda universitet siz bilan bog'lanishi mumkin. Aks holda, fikr-mulohazangiz e'tiborsiz qoladi."
+    },
+    "form": {
+      "student_id": {
+        "label": "Talaba/xodim ID raqami (agar mavjud bo'lsa)",
+        "placeholder": "Ma'lumot kiriting"
+      },
+      "name": {
+        "label": "Ism (Familiya, Ism va Otaning ismi)",
+        "placeholder": "Ma'lumot kiriting"
+      },
+      "branch": {
+        "label": "Bo'lim",
+        "placeholder": "Kampusni tanlang"
+      },
+      "college_program": {
+        "label": "Kollej/Dastur",
+        "placeholder": "N/A"
+      },
+      "email": {
+        "label": "Elektron pochta",
+        "placeholder": "Elektron pochtangizni kiriting"
+      },
+      "phone": {
+        "label": "Telefon raqami",
+        "placeholder": "00 000-00-00"
+      },
+      "feedback_details": {
+        "label": "Fikr-mulohaza tafsilotlari"
+      },
+      "feedback_type": {
+        "label": "Fikr-mulohaza turi",
+        "placeholder": "Turini tanlang"
+      },
+      "question_type": {
+        "label": "Men quyidagilar haqida so'ramoqchiman",
+        "placeholder": "Bittasini tanlang"
+      },
+      "details": {
+        "label": "Tafsilotlar",
+        "placeholder": "Bu yerda tafsilotlarni yozing"
+      },
+      "submit": {
+        "label": "Fikr-mulohaza yuborish"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Talaba fikrlari",
+    "info": "Bizning ta'lim qanday natijalar keltirganligini ko'rsatuvchi haqiqiy muvaffaqiyat hikoyalari."
+  },
+  "feedback_form_not_valid": "Iltimos, formani to‘g‘ri to‘ldiring",
+  "partners": {
+    "title": "Hamkorlar",
+    "subtitle": "Ishonchli hamkorlarimiz"
+  },
+  "faqs": {
+    "title": "Tez-tez so'raladigan savollar",
+    "info": "Izlayotgan narsangizni topa olmadingizmi? Savollaringiz bo'lsa, eng ko'p beriladigan savollardan javoblarni toping."
+  },
+  "supervisory_board": "Kuzatuv kengashi",
+  "partner_universities": {
+    "title": "Strategik hamkorlar",
+    "subtitle": "Hamkor universitetlarimiz haqida ko‘proq bilib oling."
+  },
+  "green_campus": "Yashil kampus tashabbuslari",
+  "initiative": "Boshqa yashil kampus tashabbuslari",
+  "learn_more": "Batafsil",
+  "scholarships_and_grants": "Stipendiyalar va grantlar",
+  "admission-assessment": "Hujjatlarni topshirish va baholash",
+  "admission-eligibility": "Talablarga javob berish",
+  "discover": "Kashf eting",
+  "stats": {
+    "title": "Biz raqamlarda",
+    "info": "Bizning akademik sifatimiz, talabalar xilma-xilligi va professor-o'qituvchilarimizning tajribasini namoyish etuvchi asosiy ko'rsatkichlar."
+  },
+  "course_content": "Kurs mazmuni",
+  "sus_news": "TMCdagi barqarorlik yangiliklari",
+  "structures": {
+    "title": "Tuzilma"
+  },
+  "select_type_of_study": "O'quv turini tanlang"
+}
+
